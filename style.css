@@ -1,0 +1,23 @@
+body {
+    background-image:linear-gradient(#025700, #7CE37A) ;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #014200;
+}
+nav{
+    background-color: #FFEEAA;
+    font-family: Josefine-Sans;
+    display: flex;
+    justify-content: space-between;
+}
+.nav-link{
+    font-size: 24px;
+    color: #003100;
+    text-decoration: none;
+    display: block;
+}
